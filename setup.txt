@@ -1,0 +1,9 @@
+DHT sensor library install -temperature sensor
+thingspeak install
+
+#include <ThingSpeak.h>
+
+
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+https://downloads.arduino.cc/packages/package_index.json
